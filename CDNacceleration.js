@@ -1,1 +1,1 @@
-function CDNacceleration(){console.log("CDN acceleration")}
+function CDNacceleration(){var CDNacceleration = 1 ;console.log("CDN acceleration")}
