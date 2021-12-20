@@ -86,6 +86,7 @@ window.location.href = "/";
 	});
 $(function() {
 $("img.lazyload").lazyload({
+	placeholder: lazyloadimg,
 	effect: "fadeIn",
 	threshold : 400,
 });
