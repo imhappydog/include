@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'iconfont';
+  
+  src: url('https://cdn.jsdelivr.net/gh/imhappydog/include/iconfont.ttf') format('truetype'),
+  url('https://cdn.jsdelivr.net/gh/imhappydog/include/iconfont.woff') format('woff')
+  ;
+
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
