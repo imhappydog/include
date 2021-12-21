@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'iconfont';
   
-  src: url('https://cdn.jsdelivr.net/gh/imhappydog/include/iconfont.ttf') format('truetype'),
-  url('https://cdn.jsdelivr.net/gh/imhappydog/include/iconfont.woff') format('woff')
+  src: url('../font/iconfont.ttf') format('truetype'),
+  url('../font/iconfont.woff') format('woff')
   ;
 
 }
